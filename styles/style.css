@@ -1,6 +1,7 @@
 body{
     background: white;
     background-image: url("../images/backgroundImg.jpg");
+    background-size: cover;
     color: black;
     font-family: Helvetica Neuve, Arial, Helvetica, sans-serif;
     margin:0;
