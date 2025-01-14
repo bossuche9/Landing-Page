@@ -4,7 +4,7 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat
     color: black;
     font-family: "Helvetica Neuve", Arial, Helvetica, sans-serif;
     margin:0;
@@ -65,7 +65,7 @@ nav li{
 h1 {
     margin: 0 200px;
     padding: 40px 0;
-    color: #00539f;
+    color: white;
     text-shadow: 3px 3px 1px black;
     text-align: center;
   }
