@@ -1,5 +1,5 @@
   # MY Personlal Site
-  This site is built usaing HTML,CSS AND JAVAscrtipt.
+  This site is built usaing HTML,CSS AND Javascrtipt.
 I would recommded installing VSCODE AS it has useful extensions that can be used to run the site.
 Install the live server extension on vs code.
 
