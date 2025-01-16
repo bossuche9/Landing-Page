@@ -22,21 +22,22 @@ header{
     text-align: center;
 }
 
-header a{
+.navbar a{
     color: white;
     text-decoration: none;
     margin-top:40px ;
 }
 
-nav ul{
+.navbar ul{
     margin: 0;
     padding: 0;
     list-style-type: none;
 }
-nav li{
+.navbar li{
     display: inline-block;
-    margin: 0 70px 0 0;
+    margin: 0 100px 0 0;
     padding-top: 20px;
+    
 }
 
  .aboutme h1{
@@ -84,4 +85,9 @@ h1 {
 
   .search-bar{
     padding: 40px;
+  }
+
+  .navbar a:hover{
+    color: white;
+    text-decoration: underline;
   }
