@@ -86,9 +86,12 @@ h1 {
   }
 
   .search-bar{
-    margin-left : 900px;
-    margin-bottom: 700px;
+    margin-left : 1700px;
+    margin-bottom: 1000px;
     border: 2px solid white;
+    padding: 10px;
+    width: 200px;
+    display: inline;
    
   }
 
