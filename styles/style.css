@@ -1,3 +1,5 @@
+/* margin is the space be*/
+
 body{
     background: white;
     background-image: url("../images/backgroundImg.jpg");
@@ -75,7 +77,7 @@ h1 {
     text-align: center;
     list-style-type: none;
     font-size: large;
-    font-style: oblique ;
+    
   }
 
   .copyright-text{
@@ -84,7 +86,10 @@ h1 {
   }
 
   .search-bar{
-    padding: 40px;
+    margin-left : 900px;
+    margin-bottom: 700px;
+    border: 2px solid white;
+   
   }
 
   .navbar a:hover{
