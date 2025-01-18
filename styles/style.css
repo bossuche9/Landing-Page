@@ -98,3 +98,12 @@ h1 {
     color: white;
     text-decoration: underline;
   }
+
+  .positioned {
+    position: static;
+    background: yellow;
+    position: absolute;
+    bottom:30px;
+    left: 70px;
+    width: 300px;
+  }
