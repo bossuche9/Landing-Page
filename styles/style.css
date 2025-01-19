@@ -86,11 +86,10 @@ h1 {
   }
 
   .search-bar{
-    margin-left : 1700px;
-    margin-bottom: 1000px;
     border: 5px solid white;
     width: 200px;
     display: inline;
+    position:relative;
    
   }
 
